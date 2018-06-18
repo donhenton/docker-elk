@@ -1,3 +1,7 @@
+# Notes For Other Applications
+
+ES version 6.3.0 is used by https://github.com/donhenton/github-angular. and https://github.com/donhenton/elastic-demo This code is frozen at this point for these applications.
+
 # Docker ELK stack
 
 [![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
